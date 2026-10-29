@@ -1,0 +1,11 @@
+{
+  "name": "canli-rapor",
+  "version": "0.1.0",
+  "description": "Claude'un ne yaptığını Türkçe ve canlı olarak bir panelde anlatır; her cevabın altına süre, token ve API fiyatıyla maliyet özeti ekler.",
+  "author": { "name": "TheKaBooMmm", "url": "https://github.com/TheKaBooMmm" },
+  "homepage": "https://github.com/TheKaBooMmm/canli-rapor",
+  "repository": "https://github.com/TheKaBooMmm/canli-rapor",
+  "license": "MIT",
+  "keywords": ["panel", "token", "maliyet", "türkçe", "durum"],
+  "types": "./types/index.d.ts"
+}

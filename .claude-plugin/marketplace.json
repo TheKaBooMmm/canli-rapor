@@ -1,0 +1,5 @@
+{
+  "name": "canli-rapor",
+  "owner": { "name": "TheKaBooMmm" },
+  "plugins": [{ "name": "canli-rapor", "source": "./" }]
+}
